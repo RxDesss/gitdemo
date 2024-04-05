@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         body: SafeArea(
           child: Center(
             child: Column(
-              children: [Text("1"), Text("2")],
+              children: [Text("1"), Text("2"),Text("3")],
             ),
           ),
         ),
